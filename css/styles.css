@@ -791,11 +791,6 @@ ul {
 .order-modal-input-checkbox:checked + .modal-checkbox-text .modal-user-privacy {
   background-color: #404bbf;
   border: none;
-}
-
-.order-modal-input-checkbox:checked
-  + .modal-checkbox-text
-  .modal-user-privacy-icon {
   fill: #f4f4fd;
 }
 
