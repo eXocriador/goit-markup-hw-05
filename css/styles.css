@@ -684,6 +684,7 @@ ul {
 .overlay-order-close-button:focus {
   background-color: #404bbf;
   border: none;
+  fill: #ffffff;
 }
 
 .overlay-order-close-button-icon {
